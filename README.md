@@ -1,6 +1,6 @@
-# Rollerskate Open Access Map - ROAM Scotland
+q# Rollerskate Open Access Map - ROAM Scotland
 
-map: https://umap.openstreetmap.de/fr/map/rollerskate-open-access-map-roam_156181
+map: https://umap.openstreetmap.de/en/map/rollerskate-open-access-map-roam_156181
 
 email: roam (dot) scotland (at) proton (dot) me
 
