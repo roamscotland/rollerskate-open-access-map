@@ -1,1 +1,0 @@
-https://umap.openstreetmap.de/fr/map/carte-sans-nom_156181?scaleControl=false&miniMapControl=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true
