@@ -1,4 +1,4 @@
-q# Rollerskate Open Access Map - ROAM Scotland
+# Rollerskate Open Access Map - ROAM Scotland
 
 map: https://umap.openstreetmap.de/en/map/rollerskate-open-access-map-roam_156181
 
