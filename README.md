@@ -11,6 +11,7 @@ C.S. for ROAM Scotland 2026 - CC-BY-NC
 follow the project on:
 
 Komoot: https://www.komoot.com/fr-fr/user/6176592281378
+
 Strava: https://www.strava.com/athletes/1565655789
 
 ====
