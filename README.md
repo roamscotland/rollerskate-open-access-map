@@ -4,7 +4,7 @@ map: https://umap.openstreetmap.de/en/map/rollerskate-open-access-map-roam_15618
 
 email: roam (dot) scotland (at) proton (dot) me
 
-join the project and submit your maps:
+join the project and submit your maps: https://discord.gg/xxWtnf2EPs
 
 C.S. for ROAM Scotland 2026 - CC-BY-NC
 
