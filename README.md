@@ -4,7 +4,14 @@ map: https://umap.openstreetmap.de/en/map/rollerskate-open-access-map-roam_15618
 
 email: roam (dot) scotland (at) proton (dot) me
 
+join the project and submit your maps:
+
 C.S. for ROAM Scotland 2026 - CC-BY-NC
+
+follow the project on:
+
+Komoot: https://www.komoot.com/fr-fr/user/6176592281378
+Strava: https://www.strava.com/athletes/1565655789
 
 ====
 
